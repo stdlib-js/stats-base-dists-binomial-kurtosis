@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`c1df69c`](https://github.com/stdlib-js/stdlib/commit/c1df69ccf92f1ce80f08883226dd4252644f0324) - **docs:** replace manual `for` loop in examples [(#6848)](https://github.com/stdlib-js/stdlib/pull/6848) _(by Harsh, Athan Reines)_
 -   [`e658ffd`](https://github.com/stdlib-js/stdlib/commit/e658ffd3c46b5cb1ba33c0be61e55bf6995237ca) - **bench:** update random value generation [(#6856)](https://github.com/stdlib-js/stdlib/pull/6856) _(by Harsh)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`a51a6b7`](https://github.com/stdlib-js/stdlib/commit/a51a6b7ae837114b7d9fa0854d31d03afe1e1111) - **chore:** explicitly cast and change tolerance _(by Philipp Burckhardt)_
@@ -51,8 +52,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Harsh
 -   Karan Anand
 -   Philipp Burckhardt
